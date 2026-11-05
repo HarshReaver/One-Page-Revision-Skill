@@ -6,7 +6,7 @@ The sheet contains: 5-7 key ideas, key formulas with symbol meanings, must-know 
 
 ## Install
 
-Copy the `one-page-revision` folder into either:
+Download this repo (on GitHub: Code > Download ZIP) and copy the `.claude/skills/one-page-revision` folder into either:
 
 - a project: `<project>/.claude/skills/one-page-revision/`
 - all projects: `~/.claude/skills/one-page-revision/`
